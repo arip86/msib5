@@ -1,0 +1,7 @@
+Kumpulkan tugas github sebagai berikut :
+1. Buat new repository dengan access public
+2. Buatlah 1 file didalam repository tersebut 
+3. Buat minimal 3 branch 
+4. lakukan forking ke repository berikut https://github.com/arip86/msib5 
+5. tambahkan satu branch dengan nama kalian dan buat 1 file pada repo yang telah di forking 
+6. Membuat file Forking
