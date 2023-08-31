@@ -1,5 +1,5 @@
 Materi pembelajaran MSIB
 - HTML adalah sebuah kerangka website Bootstrap
-- CSS adalah untuk merapihkan dokumen dan mewarnai dokumen
+- CSS adalah untuk merapihkan dokumen dan mewarnai dokumen HTML
 - Github adalah pembelajaran untuk dapat bekerjasama didalam project
 - saya mengedit baris ini
