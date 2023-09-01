@@ -1,0 +1,2 @@
+- Ini adalah tugas untuk memforking
+- Dan membuat satu file pada repo yang telah di forking
